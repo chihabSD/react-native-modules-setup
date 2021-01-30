@@ -38,3 +38,6 @@ ios:
 
 follow this
 https://aboutreact.com/react-native-facebook-login/
+Android:
+  go here
+  https://www.youtube.com/watch?v=lptfpgnwuZM&t=186s
